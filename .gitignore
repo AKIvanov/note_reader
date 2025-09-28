@@ -1,2 +1,32 @@
-/.vscode/*
-/build/*
+# Build folders
+/build/
+/build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+Testing/
+CTestTestfile.cmake
+
+# Ninja
+.ninja_deps
+.ninja_log
+
+# Binaries
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
+
+# IDEs/editors
+.vscode/
+.idea/
+*.code-workspace
