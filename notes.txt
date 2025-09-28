@@ -1,0 +1,6 @@
+Learned about smart pointers today in C++ #cpp #memory #smartpointers
+Started building a small key-value database project #cpp #stl #project
+Remember to check iterator invalidation rules when erasing from vector #cpp #stl #iterators
+Concurrency is hard but fun #cpp #threads #concurrency
+Plan to read Effective Modern C++ this weekend #cpp #book #learning
+Experimented with std::unordered_map for word frequency counting #cpp, #stl #hashmap
